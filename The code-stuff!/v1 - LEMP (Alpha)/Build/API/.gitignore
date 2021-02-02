@@ -1,0 +1,10 @@
+**/.DS_Store
+app/bootstrap
+app/storage
+app/vendor
+.sftp-upload-on-change.json
+app/.editorconfig
+app/.env
+app/.gitignore
+app/artisan
+app/composer.lock

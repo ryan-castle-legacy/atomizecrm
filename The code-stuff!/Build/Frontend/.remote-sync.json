@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "18.130.253.250",
+  "port": "22",
+  "target": "/var/www/",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "ubuntu",
+  "keyfile": "/Users/ryan/Desktop/Magic/Build/SSH Keys/MagicDev.pem",
+  "watch": [],
+  "transport": "scp"
+}
