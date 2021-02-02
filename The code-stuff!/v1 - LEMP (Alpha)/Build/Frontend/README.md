@@ -1,1 +1,0 @@
-# AtomizeCRM's Frontend Repository
