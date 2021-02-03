@@ -28,7 +28,7 @@ Just have fun!
 
 —
 
-If you ever think that you would use this domain (for DashDonate.org), please get in touch - hello@ryancastle.co.uk
+If you ever think that you would use this domain (for AtomizeCRM - atomizecrm.com), please get in touch - hello@ryancastle.co.uk
 
 —
 
