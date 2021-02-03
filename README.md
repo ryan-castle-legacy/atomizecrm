@@ -10,7 +10,7 @@ That project was creating (pretty much) a copy of Intercom - though it was a lot
 
 When my results were “**cancer free!**” (though my cancer started again in a few weeks likely) - I decided to close this project and start a standard business.
 
-One of my great friends was my business partner, and just before my November MRI result, we were starting a great website business!
+One of my great friends was my business partner, and just before my November MRI result, we were starting a great website business!!
 
 I kept my brain working during the new chemo types, though this stuff made my brain mush 😅
 
